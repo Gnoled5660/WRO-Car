@@ -19,6 +19,7 @@ The main reason why I built this car is because it was required for a robotics c
 Assembling it is quite straight forward. All the 3D CAD components have holes, where you can place a heated thread insert inside of it and screw the parts with screws together. 
 
 Wiring is also fairly simple. You just have to be careful with connecting it to the right pins or connecting V+ and Ground correctly. It is also important to use a wire with at least 18 or 20 AWG for the power supply, as it needs to be able to deliver a maximum of 5-6A. 
+<img width="688" height="524" alt="Bildschirmfoto 2026-05-24 um 17 01 47" src="https://github.com/user-attachments/assets/771bc6c0-ef59-4875-ab2b-94f25b0abbfe" />
 
 
 <img width="540" height="828" alt="Copy of fallout_zine_template-4" src="https://github.com/user-attachments/assets/8512fa45-ffea-4f72-a2e7-3f27bca32b92" />
