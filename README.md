@@ -1,3 +1,4 @@
+<img width="540" height="828" alt="Copy of fallout_zine_template-4" src="https://github.com/user-attachments/assets/8512fa45-ffea-4f72-a2e7-3f27bca32b92" />
 # WRO-Car
 This car is meant to be used for a competition called WRO in the category Future-engineers. The goal is to have a car that drives autonomously around obstacles, in lapses ,as fast as possible, without having a collision with the wall or the obstacles. The obstacles may have different colors. Depending on the color, the car has to either drive around it from the left side or from the right side. 
 
