@@ -25,6 +25,6 @@ The car is meant to be driven autonomously, but the using the raspberry pi5, it 
 
 <img width="900" height="614" alt="Bildschirmfoto 2026-06-14 um 11 54 30" src="https://github.com/user-attachments/assets/c77949a3-9d41-49cf-bd3d-2dc2900bcc03" />
 
-<img width="1688" height="2588" alt="Copy of fallout_zine_template-5" src="https://github.com/user-attachments/assets/ba4254d6-45b3-434b-a98f-25f25764579c" />
+<img width="1688" height="2588" alt="Copy of fallout_zine_template-6" src="https://github.com/user-attachments/assets/e304b716-b2f3-44da-bacf-75173e7d4731" />
 
 
