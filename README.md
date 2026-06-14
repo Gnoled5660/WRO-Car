@@ -1,6 +1,6 @@
 # WRO-Car
 
-<img width="876" height="440" alt="Bildschirmfoto 2026-05-24 um 17 53 21" src="https://github.com/user-attachments/assets/18cad1f1-6f97-41a9-8f40-0955e2774416" />
+<img width="687" height="417" alt="Bildschirmfoto 2026-06-14 um 00 26 38" src="https://github.com/user-attachments/assets/310a2844-c835-4c8b-9a23-23499022453c" />
 
 # Description
 
