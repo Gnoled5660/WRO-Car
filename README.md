@@ -23,8 +23,7 @@ Wiring is also fairly simple. You just have to be careful with connecting it to 
 # Usage
 The car is meant to be driven autonomously, but the using the raspberry pi5, it is also possible to program it to be able to be driven manually. The autonomous car can drive around in lapses and avoid obstacles.
 
-<img width="688" height="524" alt="Bildschirmfoto 2026-05-24 um 17 01 47" src="https://github.com/user-attachments/assets/771bc6c0-ef59-4875-ab2b-94f25b0abbfe" />
-
+[WRO Car.pdf](https://github.com/user-attachments/files/28925628/WRO.Car.pdf)
 
 <img width="540" height="828" alt="Copy of fallout_zine_template-4" src="https://github.com/user-attachments/assets/8512fa45-ffea-4f72-a2e7-3f27bca32b92" />
 
