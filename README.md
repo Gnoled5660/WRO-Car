@@ -18,7 +18,7 @@ The main reason why I built this car is because it was required for a robotics c
 
 Assembling it is quite straight forward. All the 3D CAD components have holes, where you can place a heated thread insert inside and screw the parts together. Every component is meant to be screwed or sticked together with glue.
 
-Wiring is also fairly simple. You just have to be careful with connecting it to the right pins or connecting V+ and Ground correctly. It is also important to use a wire with at least 18 or 20 AWG for the power supply, as it needs to be able to deliver a maximum of 5-6A. The rest of the signal pins can be connected with jumper cables.
+Wiring is also fairly simple. Most of the components have either copper on the pad, so that you can solder the cable on to it or there are pin headers that you can simply connect to it. You just have to be careful with connecting it to the right pins or connecting V+ and Ground correctly. It is also important to use a wire with at least 18 or 20 AWG for the power supply, as it needs to be able to deliver a maximum of 5-6A. The rest of the signal pins can be connected with jumper cables.
 
 The tires are lego tires, as well as the bar that holds the tire. However, it is completely possible to use 3D printed tires. Just be aware, that you might loose some grip.
 
