@@ -23,7 +23,7 @@ Wiring is also fairly simple. You just have to be careful with connecting it to 
 The tires are lego tires, as well as the bar that holds the tire. However, it is completely possible to use 3D printed tires. Just be aware, that you might loose some grip.
 
 # Usage
-The car is meant to be driven autonomously, but the using the raspberry pi5, it is also possible to program it to be able to be driven manually. The autonomous car can drive around in lapses and avoid obstacles.
+The car is meant to be driven autonomously, but withthe raspberry pi5, it is also possible to program it to drive manually. The autonomous car can drive around in lapses and avoid obstacles.
 
 <img width="900" height="614" alt="Bildschirmfoto 2026-06-14 um 11 54 30" src="https://github.com/user-attachments/assets/c77949a3-9d41-49cf-bd3d-2dc2900bcc03" />
 
