@@ -28,19 +28,6 @@ Starting with the main body, you need to insert heated threat inserts into all o
 
 <img width="302" height="335" alt="Bildschirmfoto 2026-06-18 um 15 10 32" src="https://github.com/user-attachments/assets/e1852d2e-8d99-4cf2-8f14-1e99c179da7e" />
 
-
-# Usage
-The car is meant to be driven autonomously, but withthe raspberry pi5, it is also possible to program it to drive manually. The autonomous car can drive around in lapses and avoid obstacles.
-
-# Firmware
-To run the code, you just have to upload the python file on to the raspberry pi 5. Note that you have to setup the pi5 first, including inserting a SD card, as the pi5 usually doesn't come with a SD card. 
-
-<img width="900" height="614" alt="Bildschirmfoto 2026-06-14 um 11 54 30" src="https://github.com/user-attachments/assets/c77949a3-9d41-49cf-bd3d-2dc2900bcc03" />
-
-Then you can glue the these parts of the steering gear onto the main body. You also have to insert a steel rod from the top to the bottom, to ensure that the component can rotate freely. The steel rods should have a diameter of 3mm.
-
-<img width="1688" height="2588" alt="Copy of fallout_zine_template-6" src="https://github.com/user-attachments/assets/e304b716-b2f3-44da-bacf-75173e7d4731" />
-
 <img width="331" height="323" alt="Bildschirmfoto 2026-06-18 um 15 15 00" src="https://github.com/user-attachments/assets/19ae350e-9b49-44eb-8bbf-df7a6ca96e78" />
 
 Afterwards, you can add the rest of the components for the steering gear. All the parts that are red in this picture need a steel rod, to ensure flawless rotations.
@@ -70,6 +57,21 @@ Now for the second layer, the screw sizes may vary from each other, as every com
 If everything is built correctly, the result should look like this one.
 
 <img width="637" height="473" alt="Bildschirmfoto 2026-06-18 um 15 29 22" src="https://github.com/user-attachments/assets/15733156-84eb-4795-858e-d277db7f5306" />
+
+
+
+
+# Usage
+The car is meant to be driven autonomously, but withthe raspberry pi5, it is also possible to program it to drive manually. The autonomous car can drive around in lapses and avoid obstacles.
+
+# Firmware
+To run the code, you just have to upload the python file on to the raspberry pi 5. Note that you have to setup the pi5 first, including inserting a SD card, as the pi5 usually doesn't come with a SD card. 
+
+<img width="900" height="614" alt="Bildschirmfoto 2026-06-14 um 11 54 30" src="https://github.com/user-attachments/assets/c77949a3-9d41-49cf-bd3d-2dc2900bcc03" />
+
+Then you can glue the these parts of the steering gear onto the main body. You also have to insert a steel rod from the top to the bottom, to ensure that the component can rotate freely. The steel rods should have a diameter of 3mm.
+
+<img width="1688" height="2588" alt="Copy of fallout_zine_template-6" src="https://github.com/user-attachments/assets/e304b716-b2f3-44da-bacf-75173e7d4731" />
 
 
 # BOM
