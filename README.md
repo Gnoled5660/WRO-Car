@@ -23,10 +23,13 @@ Wiring is also fairly simple. Most of the components have either copper on the p
 The tires are lego tires, as well as the bar that holds the tire. However, it is completely possible to use 3D printed tires. Just be aware, that you might loose some grip.
 
 # CAD Assembly
-Starting with the main body, you need to insert heated threat inserts into all of the holes. All the holes are designed for M3 screws.<img width="332" height="280" alt="Bildschirmfoto 2026-06-18 um 15 12 34" src="https://github.com/user-attachments/assets/64fb71e9-f33d-419d-9bdf-8717af95c45b" />
-
+Starting with the main body, you need to insert heated threat inserts into all of the holes. All the holes are designed for M3 screws.
 
 <img width="302" height="335" alt="Bildschirmfoto 2026-06-18 um 15 10 32" src="https://github.com/user-attachments/assets/e1852d2e-8d99-4cf2-8f14-1e99c179da7e" />
+
+Then you can glue the these parts of the steering gear onto the main body. You also have to insert a steel rod from the top to the bottom, to ensure that the component can rotate freely. The steel rods should have a diameter of 3mm.
+
+<img width="332" height="280" alt="Bildschirmfoto 2026-06-18 um 15 12 34" src="https://github.com/user-attachments/assets/64fb71e9-f33d-419d-9bdf-8717af95c45b" />
 
 <img width="331" height="323" alt="Bildschirmfoto 2026-06-18 um 15 15 00" src="https://github.com/user-attachments/assets/19ae350e-9b49-44eb-8bbf-df7a6ca96e78" />
 
@@ -68,8 +71,6 @@ The car is meant to be driven autonomously, but withthe raspberry pi5, it is als
 To run the code, you just have to upload the python file on to the raspberry pi 5. Note that you have to setup the pi5 first, including inserting a SD card, as the pi5 usually doesn't come with a SD card. 
 
 <img width="900" height="614" alt="Bildschirmfoto 2026-06-14 um 11 54 30" src="https://github.com/user-attachments/assets/c77949a3-9d41-49cf-bd3d-2dc2900bcc03" />
-
-Then you can glue the these parts of the steering gear onto the main body. You also have to insert a steel rod from the top to the bottom, to ensure that the component can rotate freely. The steel rods should have a diameter of 3mm.
 
 <img width="1688" height="2588" alt="Copy of fallout_zine_template-6" src="https://github.com/user-attachments/assets/e304b716-b2f3-44da-bacf-75173e7d4731" />
 
