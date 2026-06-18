@@ -22,6 +22,13 @@ Wiring is also fairly simple. Most of the components have either copper on the p
 
 The tires are lego tires, as well as the bar that holds the tire. However, it is completely possible to use 3D printed tires. Just be aware, that you might loose some grip.
 
+# CAD Assembly
+Starting with the main body, you need to insert heated threat inserts into all of the holes. All the holes are designed for M3 screws.<img width="332" height="280" alt="Bildschirmfoto 2026-06-18 um 15 12 34" src="https://github.com/user-attachments/assets/64fb71e9-f33d-419d-9bdf-8717af95c45b" />
+
+
+<img width="302" height="335" alt="Bildschirmfoto 2026-06-18 um 15 10 32" src="https://github.com/user-attachments/assets/e1852d2e-8d99-4cf2-8f14-1e99c179da7e" />
+
+
 # Usage
 The car is meant to be driven autonomously, but withthe raspberry pi5, it is also possible to program it to drive manually. The autonomous car can drive around in lapses and avoid obstacles.
 
@@ -30,10 +37,42 @@ To run the code, you just have to upload the python file on to the raspberry pi 
 
 <img width="900" height="614" alt="Bildschirmfoto 2026-06-14 um 11 54 30" src="https://github.com/user-attachments/assets/c77949a3-9d41-49cf-bd3d-2dc2900bcc03" />
 
+Then you can glue the these parts of the steering gear onto the main body. You also have to insert a steel rod from the top to the bottom, to ensure that the component can rotate freely. The steel rods should have a diameter of 3mm.
+
 <img width="1688" height="2588" alt="Copy of fallout_zine_template-6" src="https://github.com/user-attachments/assets/e304b716-b2f3-44da-bacf-75173e7d4731" />
 
+<img width="331" height="323" alt="Bildschirmfoto 2026-06-18 um 15 15 00" src="https://github.com/user-attachments/assets/19ae350e-9b49-44eb-8bbf-df7a6ca96e78" />
+
+Afterwards, you can add the rest of the components for the steering gear. All the parts that are red in this picture need a steel rod, to ensure flawless rotations.
+
+<img width="281" height="241" alt="Bildschirmfoto 2026-06-18 um 15 17 59" src="https://github.com/user-attachments/assets/7ce5a8a6-a79a-4839-9cd6-bd5c0724463c" />
+
+Now you can add the rest of the mounts.
+
+<img width="372" height="337" alt="Bildschirmfoto 2026-06-18 um 15 20 35" src="https://github.com/user-attachments/assets/578a8d61-6184-4304-bf17-b4d61962753c" />
+
+This part is a little bit tricky. It is important, that the servo mounts are added first and then comes the camera mount, because this why it is easier to reach the screws with a screwdriver. 
+
+<img width="343" height="339" alt="Bildschirmfoto 2026-06-18 um 15 21 45" src="https://github.com/user-attachments/assets/bcdf8f44-55a8-4a9b-baa3-83b3ed0d193e" />
+
+The pillars for the second layer also need to be screwed. There is one screw hole on the bottom and two holes for threat inserts on the top. 
+
+<img width="604" height="445" alt="Bildschirmfoto 2026-06-18 um 15 23 50" src="https://github.com/user-attachments/assets/2b1bc03a-f4e4-4520-b185-a9c2280e05fe" />
+
+After screwing every component to the mounts, it should look something like this.
+
+<img width="632" height="467" alt="Bildschirmfoto 2026-06-18 um 15 25 58" src="https://github.com/user-attachments/assets/e871349b-84ce-4ce1-ab0d-4835590de573" />
+
+Now for the second layer, the screw sizes may vary from each other, as every component has different sizes of mounting holes. In the cad files you can look up how big the holes of the components are. They are usually 0.2mm bigger than the actual screw.
+
+<img width="388" height="225" alt="Bildschirmfoto 2026-06-18 um 15 27 07" src="https://github.com/user-attachments/assets/709ac8d5-d14a-472e-863b-b812adff4c94" />
+
+If everything is built correctly, the result should look like this one.
+
+<img width="637" height="473" alt="Bildschirmfoto 2026-06-18 um 15 29 22" src="https://github.com/user-attachments/assets/15733156-84eb-4795-858e-d277db7f5306" />
+
+
 # BOM
-|Name                   |Function|Links                                                                                                                                                                                                                                                                        |Cost                |Quantity                                                     |Distributor                                                                                                                   |
 |-----------------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 |Openmv H7 Plus         |Camera  |https://www.amazon.de/-/en/OpenMV-Cam-H7-Plus-Genuine-5MP/dp/B09WYQMDX2/ref=sr_1_1?crid=33PNR0X7MA4PN&dib=eyJ2IjoiMSJ9.Yc_Q0-hCd894n0G_bcZZcF-f-0dkgnJoI8TKEcn1adATHiwsHjOMsxN7wypOpl445D9UYHXL3-2f1G2MCrllQKvYyIBBfu8C0GBJ0G2BgiBJ5IAXfwfOIi8dYh07ZJqTczDMK1Ti4RFudyy5RdPc3PD2aKzn7GRjS-fHbqec4vrbJbEd_h3x2N8cVPhwFZIU8HSlvxaCvJnZKwT1FoPzDOHvl0mTq68b7PU9RntbvncqKXu-aS0xdyZ3n2rLu-sr1Gl_DVk6oFdqXrtLrIkLRkhFRnhVgK6GzlRqNTeNUs0.MOA0BK3GUTmC_OpycZaZHIXYmecJ_UzOdp4w1p16jns&dib_tag=se&keywords=openmv+cam+h7+plus&qid=1773569554&sprefix=openmv+cam+h7+plus|124                 |1                                                            |Amazon                                                                                                                        |
 |JGA-370                |Motor   |https://smartfactory24.de/en/products/dc-motor-6v-12v-24v-elektrische-getriebe-motor-hohe-ausgerichtet-jga25-370?variant=51531346706775&country=DE&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=23078644272&gbraid=0AAAAABXW-xJgV7ZDjl7QhOxfMb-yjwhyP&gclid=Cj0KCQjw4a3OBhCHARIsAChaqJOaSRpLTh0fsLKQK0RWMPgRs7d4cWUzSukIZcd0dJkx4TjQAPaBgE0aArDKEALw_wcB|15                  |1                                                            |Smartfactory24                                                                                                                |
